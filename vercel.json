@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/navarro-campaign-site%20(10).html" }
+  ]
+}
